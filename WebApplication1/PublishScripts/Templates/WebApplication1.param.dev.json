@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "cloudscareasp5helloworld"
+  },
+  "hostingPlanName": {
+    "value": "Default1"
+  },
+  "siteLocation": {
+    "value": "South Central US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "e87f28b5-e50f-4548-8682-1691909b0480"
+  },
+  "resourceGroup": {
+    "value": "Default-Web-SouthCentralUS"
+  }
+}
